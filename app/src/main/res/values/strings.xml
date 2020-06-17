@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <string name="pnombre">nombre</string>
+
+    <string name="pnumero">numero</string>
+
+</resources>
