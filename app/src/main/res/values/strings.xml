@@ -5,4 +5,11 @@
 
     <string name="pnumero">numero</string>
 
+    <!-- Menu -->
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca de</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

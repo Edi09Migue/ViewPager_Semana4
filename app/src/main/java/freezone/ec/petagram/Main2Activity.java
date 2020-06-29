@@ -1,3 +1,4 @@
+
 package freezone.ec.petagram;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -24,6 +25,7 @@ public class Main2Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
+/*
         //llamamos al metodo toolbar
         metodoToolbar();
 
@@ -96,5 +98,7 @@ public class Main2Activity extends AppCompatActivity {
                 drawable.setColorFilter(getResources().getColor(color), PorterDuff.Mode.SRC_ATOP);
             }
         }
+        */
+
     }
 }

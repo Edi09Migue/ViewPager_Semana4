@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!-- action bar con stilo material design android:theme, app:popupTheme , elevation y  color-->
+<!-- propiedad scroll para que se oculte el toolbar-->
 
 <androidx.appcompat.widget.Toolbar
 
@@ -14,7 +15,6 @@
     android:theme="@style/AppThemeCustomToolbar"
     app:popupTheme="@style/AppThemeCustomMenuToolbar"
     app:titleTextColor="@color/colorTextoIconos"
-
 
     />
 

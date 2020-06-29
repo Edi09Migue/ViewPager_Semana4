@@ -32,6 +32,7 @@ dp        <ImageView
 
 
             <ImageView
+                android:id="@+id/imgIcono1CV"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/icons8_hueso_del_perro_100"
@@ -50,6 +51,7 @@ dp        <ImageView
             />
 
             <ImageView
+                android:id="@+id/imgIcono2CV"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="bottom"
